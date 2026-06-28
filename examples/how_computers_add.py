@@ -1,8 +1,8 @@
 """
-How Computers Add Numbers — Educational Demonstration
+How Computers Add Numbers
 ======================================================
 Shows step-by-step how logic gates perform binary addition,
-which is the basis of ALL arithmetic in a computer processor.
+which is the basis of all arithmetic in a computer.
 
 Run with: python examples/how_computers_add.py
 """
@@ -60,7 +60,6 @@ def demo_2_half_adder_detail():
     print(" The carry bit moves to the next column — just like")
     print(" carrying a 1 when you add 5+5=10 in decimal!")
     print()
-
 
 def demo_3_full_adder_detail():
     """Show how full adder handles carry from previous column."""
